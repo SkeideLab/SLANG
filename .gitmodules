@@ -1,0 +1,9 @@
+[submodule "SLANG-experiment"]
+	path = SLANG-experiment
+	url = https://github.com/SkeideLab/SLANG-experiment.git
+[submodule "SLANG-conversion"]
+	path = SLANG-conversion
+	url = https://github.com/SkeideLab/SLANG-conversion.git
+[submodule "SLANG-analysis"]
+	path = SLANG-analysis
+	url = https://github.com/SkeideLab/SLANG-analysis.git
